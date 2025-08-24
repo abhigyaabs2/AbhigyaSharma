@@ -2,6 +2,7 @@
 
 🎓 B.Tech CSE (CSBS @SVVV) | 📊 Aspiring ML Developer | 💻 Backend Developer  
 
+✨ A passionate **Computer Science & Business Systems student** and **Machine Learning enthusiast** who loves blending **technology, creativity, and learning**.   
 👀 Interested in Machine Learning, Open Source, and Scalable Backend Development  
 🌱 Currently building: **Disaster Prediction & Emergency Alert System**  
 🎸 Fun fact: When not coding, you’ll find me with my guitar or a book
@@ -10,6 +11,15 @@
 <p align="center">
   <img src="badge image.png" width="500"/>
 </p>
+
+---
+
+## 🚀 About Me
+- 🎓 B.Tech CSBS @ Shri Vaishnav Vidyapeeth Vishwavidyalaya (TCS Collaboration)  
+- 💻 Skilled in **Spring Boot, REST APIs, MongoDB, MySQL, and DSA**  
+- 🤖 Diving deep into **Machine Learning & AI**  
+- 📚 Interests: Tech + Novels + Guitar + Sketching + Fashion + Self-growth  
+- 🎯 Goal: Land a role as an **ML Developer** and contribute to impactful projects
 
 ---
 
@@ -49,7 +59,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhigyaabs2&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
-
+---
 
 
 
