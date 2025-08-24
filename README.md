@@ -8,5 +8,5 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bd7e6c6d.gif" width="500"/>
+  <img src="" width="500"/>
 </p>
